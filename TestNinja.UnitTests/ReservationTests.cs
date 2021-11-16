@@ -8,6 +8,7 @@ namespace TestNinja.UnitTests
     public class ReservationTests
     {
         [Test]
+        //MethodName_Scenario_ExpectedBehaviour
         public void CanBeCancelledBy_UserIsAdmin_ReturnsTrue()
         {
             //Arrange
